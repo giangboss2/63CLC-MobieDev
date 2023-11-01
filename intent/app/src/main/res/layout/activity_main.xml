@@ -14,7 +14,7 @@
         android:text="Giải Phương Trình bậc Nhất"
         android:textAlignment="center"
         android:textColor="#E91E63"
-        android:textSize="20sp" />
+        android:textSize="20sp" />A
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -69,5 +69,11 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:text="Kết Quả " />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
 
 </LinearLayout>
